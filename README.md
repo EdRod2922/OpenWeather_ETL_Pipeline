@@ -1,6 +1,6 @@
 # ETL Data Pipeline for Weather Data
 
-This Python script is a simple ETL pipeline that extracts weather data from the OpenWeather API, transforms it into a simple format, and saves it as a CSV file.
+This Python script is a simple ETL pipeline that extracts weather data from Cairo, Egypt, using the OpenWeather API, transforms it into a simple format, and saves it as a CSV file.
 
 ## How It Works
 1. **Extract**: Fetches weather data for a city using the OpenWeather API and API Key.
